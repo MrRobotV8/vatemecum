@@ -1,0 +1,2 @@
+# vatemecum
+Learning by doing
